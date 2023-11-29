@@ -1,4 +1,4 @@
- [![MasterHead]([https://innovage.io/wp-content/uploads/2021/06/React-Redux.jpeg](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306424489/original/cf994d3875f7960544b43fdefea63f008f952508/be-expert-react-front-end-web-developer-in-html-css-react-js.jpg))
+ [![MasterHead]([[https://innovage.io/wp-content/uploads/2021/06/React-Redux.jpeg](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306424489/original/cf994d3875f7960544b43fdefea63f008f952508/be-expert-react-front-end-web-developer-in-html-css-react-js.jpg)](https://boldentity.com/wp-content/uploads/2021/07/CC6R5WPw.png))
 <h1 align="center">Hi 👋, I'm Nedim Toymuş</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
