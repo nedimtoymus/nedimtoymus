@@ -1,4 +1,4 @@
-
+ [![MasterHead](https://innovage.io/wp-content/uploads/2021/06/React-Redux.jpeg)
 <h1 align="center">Hi 👋, I'm Nedim Toymuş</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
