@@ -1,4 +1,4 @@
-[!MasterHead](https://boldentity.com/wp-content/uploads/2021/07/CC6R5WPw.png)
+[![MasterHead](https://boldentity.com/wp-content/uploads/2021/07/CC6R5WPw.png)
 <h1 align="center">Hi 👋, I'm Nedim Toymuş</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
